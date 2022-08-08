@@ -1,0 +1,31 @@
+{
+    "name": "tokomobile_ionic",
+    "version": "1.1.1",
+    "description": "tokomobile_ionic: An Ionic project",
+    "dependencies": {
+        "cordova-plugin-fcm-with-dependecy-updated": "^2.4.0",
+        "cordova-plugin-x-socialsharing": "^5.4.4",
+        "cordova-res": "^0.15.3",
+        "es6-promise-plugin": "^4.2.2",
+        "sharp": "^0.28.3"
+    },
+    "devDependencies": {},
+    "cordovaPlugins": [
+        "cordova-plugin-device",
+        "cordova-plugin-console",
+        "cordova-plugin-whitelist",
+        "cordova-plugin-splashscreen",
+        "cordova-plugin-statusbar",
+        "ionic-plugin-keyboard"
+    ],
+    "cordovaPlatforms": [
+        "android"
+    ],
+    "cordova": {
+        "platforms": [],
+        "plugins": {
+            "cordova-plugin-x-socialsharing": {},
+            "cordova-plugin-fcm-with-dependecy-updated": {}
+        }
+    }
+}

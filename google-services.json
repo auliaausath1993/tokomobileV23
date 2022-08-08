@@ -1,0 +1,1374 @@
+{
+  "project_info": {
+    "project_number": "46838507940",
+    "firebase_url": "https://tokomobile-a234b.firebaseio.com",
+    "project_id": "tokomobile-a234b",
+    "storage_bucket": "tokomobile-a234b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:caa2e60d51138c5be3f931",
+        "android_client_info": {
+          "package_name": "com.nisastore.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:4a0c4c4d82b82f8ce3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.adminciwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:1c4f7bfc5069574ae3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.anaya_hijab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:f662d7ae9fd96d48e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:cb08c64f83ff7ae9e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.ar_konveksi_depok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:5fe9d5a9a545ddf6e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.argado_kita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:8667b3c9bc608021e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.arkonveksidepok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:530bbd3865b57844e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.arsy_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:ca7bc5a507dfd241",
+        "android_client_info": {
+          "package_name": "com.tokomobile.azka_baby_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:826e22dafed7eb8de3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.b_mart_indonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:d56f28bcd72d3a01",
+        "android_client_info": {
+          "package_name": "com.tokomobile.baby_lucky_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:ddeb76efa5ec31ea",
+        "android_client_info": {
+          "package_name": "com.tokomobile.baby_smuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:a09094c80d0b5a9c",
+        "android_client_info": {
+          "package_name": "com.tokomobile.baby_smuffv23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:21df960a3628833b",
+        "android_client_info": {
+          "package_name": "com.tokomobile.baby_stop_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:b3a0ecfb7c6e941ee3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.bandaros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:02729c5367d65e7ce3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.barokah_jaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:4b910cc8121dfde9e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.ckey_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:0f8ff97148af9888e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.ckey_store_bundle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:9163b6766f399706e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.dbc_grosir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:76ed5a486118e032",
+        "android_client_info": {
+          "package_name": "com.tokomobile.dev_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:4cc7ce00f4c9033be3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.devdan_piere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:711fe41de05cfd02e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.epic_fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:6761ad985a47d4c1",
+        "android_client_info": {
+          "package_name": "com.tokomobile.fullusshop_grosir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:9a45660962a339f9",
+        "android_client_info": {
+          "package_name": "com.tokomobile.happy_baby_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:a856d1a73b4949ff",
+        "android_client_info": {
+          "package_name": "com.tokomobile.kaos_newspirit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:19f1fb1157f1f21ce3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.khasanah_celluler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:faa6c3e990781cda",
+        "android_client_info": {
+          "package_name": "com.tokomobile.khayhijab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:400dba4be855678ae3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.kiky_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:73f8f6e3a470bf52e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.kita_baby_kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:9791c410c2d4c8c5e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.missfashiongrosir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:76f2d237712c8b4f",
+        "android_client_info": {
+          "package_name": "com.tokomobile.my_collection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:dc93c4d033d23cf9e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.nairahijab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:b4b26f09a287a0d4e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.nathan_farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:0d22d08aa3e37fc5e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.nathanfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:e93cb55ac0a175b4e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.raja_part_honda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:a77ee323c28fd8cbe3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.sendrich_jaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:5e3024bc3c90c6fa",
+        "android_client_info": {
+          "package_name": "com.tokomobile.sendrich_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:f3fcea2a1d3718c7e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.sendrichjaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:04c051515844691ce3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.sukses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:0737ae1cda5c82ece3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.tokomobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:611477db3edf14dde3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.tokomobile_premium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:808080a5b3b15ebee3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.visha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:467c8426b097154b",
+        "android_client_info": {
+          "package_name": "com.tokomobile.weki_apparel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:0a638a1156a67b78",
+        "android_client_info": {
+          "package_name": "com.tokomobile.weki_apparel_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:71317f7045c00ffb",
+        "android_client_info": {
+          "package_name": "com.tokomobile.zahra_olshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:4f55493c8909bfff",
+        "android_client_info": {
+          "package_name": "com.tokomobile.zinnia_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46838507940:android:edd104ca1fe3d220e3f931",
+        "android_client_info": {
+          "package_name": "com.tokomobile.zizazu_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7B5Zj8Rcl7MlIjJJXcLFnjtZwokFdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46838507940-3mj77vncvsrku1qur4qqac228cl7pskg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
